@@ -4,7 +4,7 @@
 
 1. Clone the public repository with the following command:
 ```bash
-xxx
+git clone https://github.com/Markeur123/nodejs-mysql-k8s.git
 ```
 
 2. Run the bash script found in the local repository with the following command to deploy :
